@@ -58,7 +58,6 @@ void Number_of_apear(int arr[], int n){ // function use to count the number of a
 		}
 
 	}
-    //printf("\nElement %d appear: %d times ", arr[i-1], cnt);
 
 }
 int main()
